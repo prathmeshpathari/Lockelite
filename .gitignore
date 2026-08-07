@@ -1,0 +1,8 @@
+lockelite-backend/target/
+payment-service/target/
+lockelite-frontend/node_modules/
+lockelite-frontend/dist/
+.DS_Store
+*.iml
+.classpath
+.project
